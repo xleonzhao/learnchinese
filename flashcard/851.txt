@@ -1,0 +1,5 @@
+舰	"汉字: 舰
+拼音: jian4
+英文: warship
+五笔:temq
+F(x):851"	tts_舰.mp3			

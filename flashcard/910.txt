@@ -1,0 +1,5 @@
+票	"汉字: 票
+拼音: piao4
+英文: bank note/ticket
+五笔:sfiu
+F(x):910"	tts_票.mp3			

@@ -1,0 +1,5 @@
+群	"汉字: 群
+拼音: qun2
+英文: crowd/flock/group
+五笔:vtk.vtkd
+F(x):570"	tts_群.mp3			

@@ -1,0 +1,5 @@
+汉	"汉字: 汉
+拼音: han4
+英文: Chinese/name of a dynasty
+五笔:ic.icy
+F(x):711"	tts_汉.mp3			

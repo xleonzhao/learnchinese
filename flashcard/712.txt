@@ -1,0 +1,5 @@
+村	"汉字: 村
+拼音: cun1
+英文: village
+五笔:sf.sfy
+F(x):712"	tts_村.mp3			

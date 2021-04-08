@@ -1,0 +1,5 @@
+武	"汉字: 武
+拼音: wu3
+英文: martial/military
+五笔:gah.gahd
+F(x):501"	tts_武.mp3			

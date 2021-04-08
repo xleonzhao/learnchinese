@@ -1,0 +1,5 @@
+段	"汉字: 段
+拼音: duan4
+英文: (surname)/paragraph/section/segment
+五笔:wdm.wdmc
+F(x):567"	tts_段.mp3			

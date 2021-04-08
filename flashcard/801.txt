@@ -1,0 +1,5 @@
+户	"汉字: 户
+拼音: hu4
+英文: a household/door/family
+五笔:yne
+F(x):801"	tts_户.mp3			

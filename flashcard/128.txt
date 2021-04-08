@@ -1,0 +1,5 @@
+点	"汉字: 点
+拼音: dian3
+英文: (downwards-right convex character stroke)/o'clock/(a measure word)/point/dot/(decimal) point)
+五笔:hko.hkou
+F(x):128"	tts_点.mp3		2,0,9,9,11,12,4320,2015-12-08 20:42,2016-12-05 20:42	

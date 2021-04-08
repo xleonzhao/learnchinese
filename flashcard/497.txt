@@ -1,0 +1,5 @@
+青	"汉字: 青
+拼音: qing1
+英文: green (blue, black)
+五笔:gef
+F(x):497"	tts_青.mp3			

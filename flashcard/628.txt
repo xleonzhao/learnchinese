@@ -1,0 +1,5 @@
+球	"汉字: 球
+拼音: qiu2
+英文: ball/sphere
+五笔:gfi.gfiy
+F(x):628"	tts_球.mp3			

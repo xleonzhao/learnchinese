@@ -1,0 +1,5 @@
+货	"汉字: 货
+拼音: huo4
+英文: goods/money/commodity
+五笔:wxm.wxmu
+F(x):818"	tts_货.mp3			

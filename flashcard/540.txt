@@ -1,0 +1,5 @@
+音	"汉字: 音
+拼音: yin1
+英文: sound/noise/news
+五笔:ujf
+F(x):540"	tts_音.mp3			

@@ -1,0 +1,5 @@
+船	"汉字: 船
+拼音: chuan2
+英文: a boat/vessel/ship
+五笔:temk
+F(x):614"	tts_船.mp3			

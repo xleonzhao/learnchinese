@@ -1,0 +1,5 @@
+有	"汉字: 有
+拼音: you3
+英文: to have/there is/there are/to exist/to be
+五笔:e.def
+F(x):8"	tts_有.mp3		3,0,1,1,1,2,0,2013-12-10 11:09,1969-12-31 19:00	

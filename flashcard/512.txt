@@ -1,0 +1,5 @@
+房	"汉字: 房
+拼音: fang2
+英文: house
+五笔:yny.ynyv
+F(x):512"	tts_房.mp3			

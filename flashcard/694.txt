@@ -1,0 +1,5 @@
+木	"汉字: 木
+拼音: mu4
+英文: tree/wood
+五笔:ssss
+F(x):694"	tts_木.mp3			

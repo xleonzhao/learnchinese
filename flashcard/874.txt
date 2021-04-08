@@ -1,0 +1,5 @@
+枪	"汉字: 枪
+拼音: qiang1
+英文: gun/firearm/rifle/spear, rifle/spear
+五笔:swb.swbn
+F(x):874"	tts_枪.mp3			

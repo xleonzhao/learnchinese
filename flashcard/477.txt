@@ -1,0 +1,5 @@
+念	"汉字: 念
+拼音: nian4
+英文: read aloud, to read aloud
+五笔:wynn
+F(x):477"	tts_念.mp3			

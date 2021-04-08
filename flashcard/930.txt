@@ -1,0 +1,5 @@
+板	"汉字: 板
+拼音: ban3
+英文: board/plank/plate/slab, boss
+五笔:src.srcy
+F(x):930"	tts_板.mp3			

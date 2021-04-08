@@ -1,0 +1,5 @@
+笔	"汉字: 笔
+拼音: bi3
+英文: pen/pencil/writing brush/to write or compose/the strokes of Chinese characters
+五笔:tt.ttf.ttfn
+F(x):956"	tts_笔.mp3			

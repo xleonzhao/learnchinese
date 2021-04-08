@@ -1,0 +1,5 @@
+君	"汉字: 君
+拼音: jun1
+英文: monarch/lord/gentleman/ruler
+五笔:vtkd
+F(x):985"	tts_君.mp3			

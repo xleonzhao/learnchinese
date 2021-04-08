@@ -1,0 +1,5 @@
+病	"汉字: 病
+拼音: bing4
+英文: ailment/sickness/illness/disease/fall ill/sick/defect
+五笔:ugm.ugmw
+F(x):427"	tts_病.mp3		2,0,6,6,6,7,1328,2016-02-15 21:24,2016-09-11 06:24	

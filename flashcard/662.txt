@@ -1,0 +1,5 @@
+药	"汉字: 药
+拼音: yao4
+英文: medicine/drug/cure
+五笔:ax.axq.axqy
+F(x):662"	tts_药.mp3			

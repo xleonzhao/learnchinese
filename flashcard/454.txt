@@ -1,0 +1,5 @@
+包	"汉字: 包
+拼音: bao1
+英文: to cover/to wrap/to hold/to include/to take charge of/package/wrapper/container/bag/to hold or embrace/bundle/packet/to contract (to or for)
+五笔:qn.qnv
+F(x):454"	tts_包.mp3		2,0,3,3,5,6,1423,2016-04-04 21:34,2016-10-16 04:34	

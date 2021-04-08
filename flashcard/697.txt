@@ -1,0 +1,5 @@
+树	"汉字: 树
+拼音: shu4
+英文: tree
+五笔:scf.scfy
+F(x):697"	tts_树.mp3			

@@ -1,0 +1,5 @@
+州	"汉字: 州
+拼音: zhou1
+英文: (United States) state/province/sub-prefecture
+五笔:ytyh
+F(x):721"	tts_州.mp3			

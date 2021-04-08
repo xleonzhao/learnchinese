@@ -1,0 +1,5 @@
+母	"汉字: 母
+拼音: mu3
+英文: female/mother
+五笔:xgu.xgui
+F(x):565"	tts_母.mp3			

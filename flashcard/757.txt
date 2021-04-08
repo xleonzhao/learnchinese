@@ -1,0 +1,5 @@
+银	"汉字: 银
+拼音: yin2
+英文: silver
+五笔:qve.qvey
+F(x):757"	tts_银.mp3			

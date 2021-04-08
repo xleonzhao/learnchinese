@@ -1,0 +1,5 @@
+画	"汉字: 画
+拼音: hua4
+英文: draw/picture/painting
+五笔:gl.glb.glbj
+F(x):883"	tts_画.mp3			

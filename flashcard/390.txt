@@ -1,0 +1,5 @@
+影	"汉字: 影
+拼音: ying3
+英文: picture/image/reflection/shadow
+五笔:jyie
+F(x):390"	tts_影.mp3		2,0,7,7,7,8,3153,2016-02-15 21:30,2016-11-26 06:30	
