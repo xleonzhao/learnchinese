@@ -4,6 +4,7 @@ import csv
 import os
 import sys
 
+data = "../data/cn_char_by_freq.tsv"
 fields=('SN', 'char', 'freq', 'cdf', 'pinyin', 'trans')
 MAX = 2500
 BATCH = 20
